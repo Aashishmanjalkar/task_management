@@ -20,7 +20,7 @@ Follow these steps to set up and run the project locally:
 This will populate the `users` table with default data.
 
 7. **Import Postman Collection**: 
-- Download the Postman collection from [here](https://api.postman.com/collections/20709290-62466599-b4f2-40e6-97e1-f466138fed5e?access_key=PMAT-01HX9QWE1B5GMGB257GVZ0BDSD).
+- Sent on linkedin.
 - Import the collection into Postman.
 
 8. **Set Postman Environment Variable**:
